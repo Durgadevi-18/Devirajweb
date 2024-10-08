@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devirajweb/static/css/main.48bc1923.css",
+    "main.js": "/devirajweb/static/js/main.af6e5c05.js",
+    "static/js/453.bbc1344b.chunk.js": "/devirajweb/static/js/453.bbc1344b.chunk.js",
+    "index.html": "/devirajweb/index.html",
+    "main.48bc1923.css.map": "/devirajweb/static/css/main.48bc1923.css.map",
+    "main.af6e5c05.js.map": "/devirajweb/static/js/main.af6e5c05.js.map",
+    "453.bbc1344b.chunk.js.map": "/devirajweb/static/js/453.bbc1344b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bc1923.css",
+    "static/js/main.af6e5c05.js"
+  ]
+}
